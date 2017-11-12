@@ -11,7 +11,7 @@ Open index.html
 
 ## Planning
 * [Trello Board](https://trello.com/b/Yg4flW3u/portfolio)
-* Color Palette
+* [Color Palette](https://coolors.co/703053-8e5575-93b7be-2a2e38-ffffff)
 * Balsamiq Mockups
 
 ## Technologies Used
