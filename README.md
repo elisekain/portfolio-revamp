@@ -12,7 +12,7 @@ Open index.html
 ## Planning
 * [Trello Board](https://trello.com/b/Yg4flW3u/portfolio)
 * [Color Palette](https://coolors.co/703053-8e5575-93b7be-2a2e38-ffffff)
-* Balsamiq Mockups
+* [Balsamiq Mockups](https://github.com/elisekain/portfolio-revamp/blob/master/planning/Portfolio.pdf)
 
 ## Technologies Used
 * [Sass](http://sass-lang.com/)
