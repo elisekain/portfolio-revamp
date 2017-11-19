@@ -6,6 +6,11 @@ This is the second version of my personal portfolio site.
 ### Clone repository
 Clone or download this repository.
 
+### Compile Sass
+[Sass CLI](http://sass-lang.com/install) must be installed. From the root of this project, run this command in the terminal.
+
+`$ sass --watch sass/main.scss:css/main.min.css --style compressed`
+
 ### Run the project
 Open index.html
 
