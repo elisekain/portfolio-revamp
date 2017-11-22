@@ -1,7 +1,13 @@
+$purple: #703053;
+$lt-purple: #8e5575;
+$blue: #93b7be;
+$grey: #2a2e38;
+
 body {
-	background-color: #703053;
+	background-color: $purple;
 	color: white;
 	a {
-		color: blue;
+		background-color: $grey;
+		color: $blue;
 	}
 }
