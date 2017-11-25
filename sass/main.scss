@@ -1,9 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700|Satisfy");
+
 $purple: #703053;
 $lt-purple: #8e5575;
 $blue: #93b7be;
 $grey: #2a2e38;
 
 body {
+	font-family: "Lato", sans-serif;
+
+	h1,
+	h2 {
+		font-family: "Satisfy", cursive;
+	}
+
 	background-color: $purple;
 	color: white;
 	a {
