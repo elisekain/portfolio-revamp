@@ -5,6 +5,9 @@ $lt-purple: #8e5575;
 $blue: #93b7be;
 $grey: #2a2e38;
 
+$medium: 900px;
+$small: 600px;
+
 body {
 	font-family: "Lato", sans-serif;
 
@@ -13,10 +16,11 @@ body {
 		font-family: "Satisfy", cursive;
 	}
 
-	background-color: $purple;
-	color: white;
+	color: $grey;
 	a {
 		background-color: $grey;
 		color: $blue;
 	}
 }
+
+@import "header";
