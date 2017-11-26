@@ -1,14 +1,4 @@
-footer {
-	background-color: $grey;
-	border-top: solid 8px $blue;
-	padding: 1%;
-
-	ul {
-		list-style-type: none;
-		text-align: center;
-		padding: 0;
-	}
-
+#links {
 	li {
 		display: inline-block;
 		width: 24%;
@@ -26,14 +16,10 @@ footer {
 		}
 
 		a {
-			color: $blue;
+			color: $purple;
 			display: inline-block;
 			padding: 5%;
 			text-decoration: none;
-
-			@media (max-width: $small) {
-				padding: 5%;
-			}
 		}
 	}
 }
