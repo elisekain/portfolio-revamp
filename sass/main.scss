@@ -10,18 +10,43 @@ $small: 600px;
 
 body {
 	font-family: "Lato", sans-serif;
+	color: $grey;
+
+	main {
+		padding: 1% 5%;
+	}
 
 	h1,
 	h2 {
 		font-family: "Satisfy", cursive;
 	}
 
-	color: $grey;
+	h2 {
+		color: $purple;
+		font-size: 3rem;
+
+		@media (max-width: $medium) {
+			font-size: 2rem;
+		}
+
+		@media (max-width: $small) {
+			font-size: 1.5rem;
+		}
+	}
+
 	a {
-		background-color: $grey;
-		color: $blue;
+		color: $lt-purple;
+	}
+
+	p {
+		font-size: 1.25rem;
+
+		@media (max-width: $medium) {
+			font-size: 1rem;
+		}
 	}
 }
 
 @import "header";
+@import "body";
 @import "footer";
