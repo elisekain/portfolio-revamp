@@ -1,24 +1,24 @@
 #links {
-	li {
-		display: inline-block;
-		width: 24%;
+  li {
+    display: inline-block;
+    width: 24%;
 
-		@media (max-width: $small) {
-			width: 49%;
-			padding-top: 2%;
-			padding-bottom: 2%;
-			margin: 0 auto;
-		}
+    @media (max-width: $small) {
+      width: 49%;
+      padding-top: 2%;
+      padding-bottom: 2%;
+      margin: 0 auto;
+    }
 
-		img {
-			display: block;
-			margin: 10% auto;
-		}
+    img {
+      display: block;
+      margin: 10% auto;
+    }
 
-		a {
-			color: $purple;
-			display: inline-block;
-			padding: 5%;
-		}
-	}
+    a {
+      color: $main;
+      display: inline-block;
+      padding: 5%;
+    }
+  }
 }
